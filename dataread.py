@@ -6,4 +6,4 @@ with open('data.csv', 'r') as f:
     print(headers)
 
 
-# Name file uploaded to "data" in order for it to read the csv file
+# Rename file uploaded to "data" in order for it to read the csv file
